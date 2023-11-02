@@ -7,5 +7,10 @@ public class main {
         solarSystem.Moon = "2";
         solarSystem.Planets = "2";
         solarSystem.Stars = "10";
+
+        // **********************Feature Sun ************************
+        FeatureSun Sun = new FeatureSun();
+        Sun.name="panther";
+        Sun
     }
 }
